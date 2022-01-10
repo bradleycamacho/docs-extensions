@@ -2,7 +2,7 @@
     "name": "docs-extensions",
     "displayName": "Docs extensions",
     "description": "This is a slightly curated list of extensions I have found useful when working on a markdown based docs site.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "bradleycamacho",
     "repository": {
         "type": "git",
@@ -13,9 +13,9 @@
     },
     "categories": [
         "Extension Packs"
-    ],  
+    ],
     "icon": "images/icon.png",
-    "extensionPack": [ 
+    "extensionPack": [
         "github.copilot",
         "github.vscode-pull-request-github",
         "vincaslt.highlight-matching-tag",
