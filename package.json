@@ -10,6 +10,16 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "publisher.extensionName"
+        "github.copilot",
+        "github.vscode-pull-request-github",
+        "vincaslt.highlight-matching-tag",
+        "oderwat.indent-rainbow",
+        "zainchen.json",
+        "ms-vscode.live-server",
+        "yzhang.markdown-all-in-one",
+        "silvenon.mdx",
+        "codestream.codestream",
+        "esbenp.prettier-vscode",
+        "ms-vsliveshare.vsliveshare-pack"
     ]
 }
