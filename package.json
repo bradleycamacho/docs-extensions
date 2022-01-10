@@ -3,6 +3,10 @@
     "displayName": "Docs extensions",
     "description": "Useful extensions for working in Markdown.",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bradleycamacho/docs-extensions"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },
