@@ -1,18 +1,23 @@
 {
     "name": "docs-extensions",
     "displayName": "Docs extensions",
-    "description": "Useful extensions for working in Markdown.",
+    "description": "This is a slightly curated list of extensions I have found useful when working on a markdown based docs site.",
     "version": "0.0.1",
     "repository": {
         "type": "git",
-        "url": "https://github.com/bradleycamacho/docs-extensions"
+        "url": "https://github.com/bradleycamacho/docs-extensions.git"
     },
     "engines": {
         "vscode": "^1.63.0"
     },
     "categories": [
         "Extension Packs"
-    ],
+    ],  
+    "icon": "./icon.png",
+    "galleryBanner": {
+        "color": "#C80000",
+        "theme": "dark"
+    },
     "extensionPack": [ 
         "github.copilot",
         "github.vscode-pull-request-github",

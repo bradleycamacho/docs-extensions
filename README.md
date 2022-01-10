@@ -35,3 +35,5 @@ This is a slightly curated list of extensions I and others have found useful whe
 4. Navigate to `docs-extensions-0.0.1.vsix` and click install.
 
 All the extensions listed above should now be installed in your local environment. 
+
+Icon credits: `Doc by ArmOkay from NounProject.com`
