@@ -1,16 +1,29 @@
 # README
 
-## This is the README for your extension pack "docs-extensions"
+## MDX docs extension pack
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+This is a slightly curated list of extensions I and others have found useful when working on a markdown based docs site. The following is a list of extensions included in the pack:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+```
+"github.copilot",
+"github.vscode-pull-request-github",
+"vincaslt.highlight-matching-tag",
+"oderwat.indent-rainbow",
+"zainchen.json",
+"ms-vscode.live-server",
+"yzhang.markdown-all-in-one",
+"silvenon.mdx",
+"codestream.codestream",
+"esbenp.prettier-vscode",
+"ms-vsliveshare.vsliveshare-pack",
+"hookyqr.beautify",
+"streetsidesoftware.code-spell-checker",
+"dbaeumer.vscode-eslint",
+"fnando.linter",
+"davidanson.vscode-markdownlint",
+"hajdaini.select-until-pattern",
+"jkjustjoshing.vscode-text-pastry",
+"vscode-icons-team.vscode-icons",
+"kirozen.wordcounter",
+"redhat.vscode-yaml"
+```

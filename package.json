@@ -20,6 +20,16 @@
         "silvenon.mdx",
         "codestream.codestream",
         "esbenp.prettier-vscode",
-        "ms-vsliveshare.vsliveshare-pack"
+        "ms-vsliveshare.vsliveshare-pack",
+        "hookyqr.beautify",
+        "streetsidesoftware.code-spell-checker",
+        "dbaeumer.vscode-eslint",
+        "fnando.linter",
+        "davidanson.vscode-markdownlint",
+        "hajdaini.select-until-pattern",
+        "jkjustjoshing.vscode-text-pastry",
+        "vscode-icons-team.vscode-icons",
+        "kirozen.wordcounter",
+        "redhat.vscode-yaml"
     ]
 }
